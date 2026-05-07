@@ -9,7 +9,7 @@
 
 
 
-💫 About Me:
+💫 About Me: https://portfolio-giovani.vercel.app/
 
 🔭 Currently building :
 Foody App — a restaurant discovery platform with real-time filters,
