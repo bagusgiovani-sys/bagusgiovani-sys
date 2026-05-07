@@ -12,22 +12,18 @@
 💫 About Me:
 
 🔭 Currently building :
-
 Foody App — a restaurant discovery platform with real-time filters,
 data visualization, and geo-based search. React, Next.js, TypeScript.
 
 👯 Open to collaborate on :
-
 Frontend projects that demand pixel-perfect Figma implementation,
 complex state architecture, or high-quality motion and animations.
 
 💬 Ask me about :
-
 Optimistic UI patterns, TanStack Query server state design,
 scalable React architecture, and Figma-to-code execution.
 
 ⚡ Fun fact :
-
 A broken API endpoint once threatened to kill my app mid-build.
 I debugged it, found an alternate endpoint, rerouted the calls,
 and shipped anyway. That moment made me a real engineer.
