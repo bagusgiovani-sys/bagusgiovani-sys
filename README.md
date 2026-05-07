@@ -1,5 +1,32 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Foody App — a restaurant discovery platform with real-time filters, data visualization, and geo-based search. Built with React, Next.js, and TypeScript.<br><br>👯 I'm looking to collaborate on<br>Frontend projects that need pixel-perfect UI implementation, complex state management, or smooth animations. Open to React/Next.js work.<br><br>🌱 I'm currently learning<br>Advanced performance optimization, accessibility best practices, and sharpening raw React fundamentals without AI assistance.<br><br>💬 Ask me about<br>React architecture, TanStack Query server state patterns, optimistic UI implementation, and Figma-to-code with pixel-perfect accuracy.<br><br>⚡ Fun fact<br>I debugged a broken API endpoint live in production and rerouted the calls to keep the app functional — that's when I fell in love with frontend engineering.
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+💫 About Me:
+
+🔭 Currently building
+Foody App — a restaurant discovery platform with real-time filters,
+data visualization, and geo-based search. React, Next.js, TypeScript.
+
+👯 Open to collaborate on
+Frontend projects that demand pixel-perfect Figma implementation,
+complex state architecture, or high-quality motion and animations.
+
+💬 Ask me about
+Optimistic UI patterns, TanStack Query server state design,
+scalable React architecture, and Figma-to-code execution.
+
+⚡ Fun fact
+A broken API endpoint once threatened to kill my app mid-build.
+I debugged it, found an alternate endpoint, rerouted the calls,
+and shipped anyway. That moment made me a real engineer.
 
 
 ## 🌐 Socials:
@@ -25,11 +52,3 @@
 [![](https://komarev.com/ghpvc/?username=bagusgiovani-sys&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/bagusgiovani-sys/bagusgiovani-sys/output/pacman-contribution-graph.svg">
-</picture>
