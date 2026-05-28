@@ -15,6 +15,7 @@
 
 🚀 Shipped & Featured Projects :
 * **Sociality App** — A social networking platform featuring a robust 5-layer frontend state remediation architecture built to mitigate critical backend state synchronization bugs. Implements granular TanStack Query optimistic cache manipulation, custom decoupled event buses, and multi-layered localStorage-to-Redux hydration lifecycles.
+* * **Movie App** — An immersive, API-driven media discovery platform featuring high-fidelity trailer streaming and persistent collection management. Implements asynchronous video stream embedding, dynamic categorization matrices, and a highly responsive client-side caching layer for instant favorites tab toggling and retrieval.
 
 👯 Open to collaborate on :
 Advanced web applications requiring bulletproof state architectures, complex offline/local persistence synchronization models, production-grade optimistic UI paradigms, or low-level performance rendering setups.
